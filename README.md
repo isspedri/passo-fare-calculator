@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 # PASSO Fare Calculator v1.0
 
 A command-line fare calculator demonstrating CRUD operations using JavaScript.
