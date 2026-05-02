@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PASSO Fare Calculator v1.0
 
 A command-line fare calculator demonstrating CRUD operations using JavaScript.
@@ -38,3 +39,7 @@ Ismaila Jammeh - PASSO Development Course 2026
 ## License
 
 MIT
+=======
+# passo-fare-calculator
+A command-line fare calculator demonstrating CRUD operations with JavaScript arrays and objects 
+>>>>>>> 8acbd51696cb949d971b114962e1ad1027bc92ca
